@@ -27,16 +27,16 @@ Total sales analysed: **106.4M** across **11,245 transactions**.
 ## Charts
 
 ### Gender
-![Gender analysis](images/01_gender_analysis.png)
+![Gender analysis](01_gender_analysis.png)
 
 ### Age group
-![Age group analysis](images/02_age_group_analysis.png)
+![Age group analysis](<02_age_group_analysis (1).png>)
 
 ### States
-![State analysis](images/03_state_analysis.png)
+![State analysis](03_state_analysis.png)
 
 ### Product categories
-![Product category analysis](images/04_product_category_analysis.png)
+![Product category analysis](04_product_category_analysis.png)
 
 ## What I did
 
@@ -52,11 +52,11 @@ Python, pandas, matplotlib, seaborn, Jupyter Notebook (VS Code)
 ## Project structure
 
 ```
-sales-eda-project/
+Exploratory-Data-Analysis/
 ├── README.md
 ├── Sales_Data_EDA_Portfolio.ipynb   # full analysis with charts
 ├── Sales_Data.csv                   # dataset
-└── images/                          # charts used in this README
+└── *.png                            # charts used in this README
 ```
 
 ## How to run it
